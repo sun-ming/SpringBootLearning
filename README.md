@@ -1,16 +1,36 @@
+>转载请标明出处： 
+> 原文首发于：https://www.fangzhipeng.com/spring-boot.html
+>
+> 本文出自[方志朋的博客](https://www.fangzhipeng.com)
+> 
 
+#### 获取SpringCloud 、Spring Boot视频：https://www.fangzhipeng.com/share/2017/10/01/resource-sharing.html
+
+<div>
+    <p align="center">
+        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
+        <br>
+        扫一扫，支持下作者吧
+    </p>
+    <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
+        <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
+    </p>
+</div>
+
+
+[CSDN 2018 年 博客之星，请为我投一票，感谢！~](https://blog.csdn.net/forezp/article/details/85340278)
 
 # SpringBoot非官方教程 | 终章：文章汇总
 
  springboot非官方教程，可能最接近于官方的一个教程，大多数案例都来自于官方文档，为了更好的理解，加入了个人的改造。
- 
- 码云下载：[https://git.oschina.net/forezp/SpringBootLearning](https://git.oschina.net/forezp/SpringBootLearning)
+
+码云下载：[https://git.oschina.net/forezp/SpringBootLearning](https://git.oschina.net/forezp/SpringBootLearning)
  
  源码下载：[https://github.com/forezp/SpringBootLearning](https://github.com/forezp/SpringBootLearning),谢谢支持，记得star哦。
  
  
 
-欢迎关注：[SpringCloud 系列教程](http://blog.csdn.net/forezp/article/details/70148833)
+欢迎访问我的个人博客：https://www.fangzhipeng.com/springboot/2017/07/11/springboot-all/
 
 
 ## 入门篇
@@ -84,13 +104,17 @@
 ## 未完结
 * 待续。。。
 
-### 怎么支持我？
+<div>
+    <p align="center">
+        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
+        <br>
+        扫码关注有惊喜
+    </p>
+    <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
+        <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
+    </p>
+</div>
 
-* 这个系列会持续更新，敬请关注！
-
-* 关注我的公众号,精彩内容不能错过！
-
-![forezp.jpg](http://upload-images.jianshu.io/upload_images/2279594-0805748d92bba033.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 
 
 
